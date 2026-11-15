@@ -1,0 +1,212 @@
+PID 0x046D (1133), PES 1, PTS 0x00061CE39 (71.220 s), mediatime 4.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 725 bytes
+PID 0x046B (1131), PES 1, PTS 0x00061CE39 (71.220 s), mediatime 4.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 725 bytes
+PID 0x046C (1132), PES 1, PTS 0x00061CE39 (71.220 s), mediatime 4.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 724 bytes
+PID 0x046A (1130), PES 1, PTS 0x00061CE39 (71.220 s), mediatime 4.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 1999 bytes
+PID 0x046D (1133), PES 2, PTS 0x00061CE39 (71.220 s), mediatime 4.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 725 bytes
+PID 0x046B (1131), PES 2, PTS 0x00061CE39 (71.220 s), mediatime 4.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 725 bytes
+PID 0x046C (1132), PES 2, PTS 0x00061CE39 (71.220 s), mediatime 4.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 724 bytes
+PID 0x046A (1130), PES 2, PTS 0x00061CE39 (71.220 s), mediatime 4.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 1999 bytes
+PID 0x046D (1133), PES 3, PTS 0x00061CE39 (71.220 s), mediatime 4.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 725 bytes
+PID 0x046B (1131), PES 3, PTS 0x00061CE39 (71.220 s), mediatime 4.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 725 bytes
+PID 0x046C (1132), PES 3, PTS 0x00061CE39 (71.220 s), mediatime 4.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 724 bytes
+PID 0x046A (1130), PES 3, PTS 0x00061CE39 (71.220 s), mediatime 4.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 1999 bytes
+PID 0x046B (1131), PES 4, PTS 0x000674C79 (75.220 s), mediatime 8.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 804 bytes
+PID 0x046C (1132), PES 4, PTS 0x000674C79 (75.220 s), mediatime 8.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 804 bytes
+PID 0x046A (1130), PES 4, PTS 0x000674C79 (75.220 s), mediatime 8.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2355 bytes
+PID 0x046D (1133), PES 4, PTS 0x000674C79 (75.220 s), mediatime 8.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2355 bytes
+PID 0x046B (1131), PES 5, PTS 0x000674C79 (75.220 s), mediatime 8.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 804 bytes
+PID 0x046C (1132), PES 5, PTS 0x000674C79 (75.220 s), mediatime 8.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 804 bytes
+PID 0x046A (1130), PES 5, PTS 0x000674C79 (75.220 s), mediatime 8.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2355 bytes
+PID 0x046D (1133), PES 5, PTS 0x000674C79 (75.220 s), mediatime 8.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2355 bytes
+PID 0x046B (1131), PES 6, PTS 0x000674C79 (75.220 s), mediatime 8.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 804 bytes
+PID 0x046C (1132), PES 6, PTS 0x000674C79 (75.220 s), mediatime 8.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 804 bytes
+PID 0x046A (1130), PES 6, PTS 0x000674C79 (75.220 s), mediatime 8.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2355 bytes
+PID 0x046D (1133), PES 6, PTS 0x000674C79 (75.220 s), mediatime 8.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2355 bytes
+PID 0x046B (1131), PES 7, PTS 0x000674C79 (75.220 s), mediatime 8.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 804 bytes
+PID 0x046C (1132), PES 7, PTS 0x000674C79 (75.220 s), mediatime 8.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 804 bytes
+PID 0x046A (1130), PES 7, PTS 0x000674C79 (75.220 s), mediatime 8.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2355 bytes
+PID 0x046D (1133), PES 7, PTS 0x000674C79 (75.220 s), mediatime 8.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2355 bytes
+PID 0x046D (1133), PES 8, PTS 0x0006CCAB9 (79.220 s), mediatime 12.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 773 bytes
+PID 0x046B (1131), PES 8, PTS 0x0006CCAB9 (79.220 s), mediatime 12.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 773 bytes
+PID 0x046C (1132), PES 8, PTS 0x0006CCAB9 (79.220 s), mediatime 12.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 773 bytes
+PID 0x046A (1130), PES 8, PTS 0x0006CCAB9 (79.220 s), mediatime 12.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2120 bytes
+PID 0x046D (1133), PES 9, PTS 0x0006CCAB9 (79.220 s), mediatime 12.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 773 bytes
+PID 0x046B (1131), PES 9, PTS 0x0006CCAB9 (79.220 s), mediatime 12.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 773 bytes
+PID 0x046C (1132), PES 9, PTS 0x0006CCAB9 (79.220 s), mediatime 12.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 773 bytes
+PID 0x046A (1130), PES 9, PTS 0x0006CCAB9 (79.220 s), mediatime 12.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2120 bytes
+PID 0x046D (1133), PES 10, PTS 0x0006CCAB9 (79.220 s), mediatime 12.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 773 bytes
+PID 0x046B (1131), PES 10, PTS 0x0006CCAB9 (79.220 s), mediatime 12.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 773 bytes
+PID 0x046C (1132), PES 10, PTS 0x0006CCAB9 (79.220 s), mediatime 12.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 773 bytes
+PID 0x046A (1130), PES 10, PTS 0x0006CCAB9 (79.220 s), mediatime 12.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2120 bytes
+PID 0x046D (1133), PES 11, PTS 0x0006CCAB9 (79.220 s), mediatime 12.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 773 bytes
+PID 0x046B (1131), PES 11, PTS 0x0006CCAB9 (79.220 s), mediatime 12.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 773 bytes
+PID 0x046C (1132), PES 11, PTS 0x0006CCAB9 (79.220 s), mediatime 12.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 773 bytes
+PID 0x046A (1130), PES 11, PTS 0x0006CCAB9 (79.220 s), mediatime 12.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2120 bytes
+PID 0x046B (1131), PES 12, PTS 0x0007248F9 (83.220 s), mediatime 16.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 824 bytes
+PID 0x046C (1132), PES 12, PTS 0x0007248F9 (83.220 s), mediatime 16.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 824 bytes
+PID 0x046A (1130), PES 12, PTS 0x0007248F9 (83.220 s), mediatime 16.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2382 bytes
+PID 0x046D (1133), PES 12, PTS 0x0007248F9 (83.220 s), mediatime 16.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2382 bytes
+PID 0x046B (1131), PES 13, PTS 0x0007248F9 (83.220 s), mediatime 16.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 824 bytes
+PID 0x046C (1132), PES 13, PTS 0x0007248F9 (83.220 s), mediatime 16.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 824 bytes
+PID 0x046A (1130), PES 13, PTS 0x0007248F9 (83.220 s), mediatime 16.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2382 bytes
+PID 0x046D (1133), PES 13, PTS 0x0007248F9 (83.220 s), mediatime 16.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2382 bytes
+PID 0x046B (1131), PES 14, PTS 0x0007248F9 (83.220 s), mediatime 16.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 824 bytes
+PID 0x046C (1132), PES 14, PTS 0x0007248F9 (83.220 s), mediatime 16.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 824 bytes
+PID 0x046A (1130), PES 14, PTS 0x0007248F9 (83.220 s), mediatime 16.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2382 bytes
+PID 0x046D (1133), PES 14, PTS 0x0007248F9 (83.220 s), mediatime 16.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2382 bytes
+PID 0x046B (1131), PES 15, PTS 0x0007248F9 (83.220 s), mediatime 16.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 824 bytes
+PID 0x046C (1132), PES 15, PTS 0x0007248F9 (83.220 s), mediatime 16.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 824 bytes
+PID 0x046A (1130), PES 15, PTS 0x0007248F9 (83.220 s), mediatime 16.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2382 bytes
+PID 0x046D (1133), PES 15, PTS 0x0007248F9 (83.220 s), mediatime 16.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2382 bytes
+PID 0x046D (1133), PES 16, PTS 0x00077C739 (87.220 s), mediatime 20.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 764 bytes
+PID 0x046B (1131), PES 16, PTS 0x00077C739 (87.220 s), mediatime 20.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 764 bytes
+PID 0x046C (1132), PES 16, PTS 0x00077C739 (87.220 s), mediatime 20.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 764 bytes
+PID 0x046A (1130), PES 16, PTS 0x00077C739 (87.220 s), mediatime 20.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2120 bytes
+PID 0x046D (1133), PES 17, PTS 0x00077C739 (87.220 s), mediatime 20.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 764 bytes
+PID 0x046B (1131), PES 17, PTS 0x00077C739 (87.220 s), mediatime 20.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 764 bytes
+PID 0x046C (1132), PES 17, PTS 0x00077C739 (87.220 s), mediatime 20.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 764 bytes
+PID 0x046A (1130), PES 17, PTS 0x00077C739 (87.220 s), mediatime 20.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2120 bytes
+PID 0x046D (1133), PES 18, PTS 0x00077C739 (87.220 s), mediatime 20.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 764 bytes
+PID 0x046B (1131), PES 18, PTS 0x00077C739 (87.220 s), mediatime 20.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 764 bytes
+PID 0x046C (1132), PES 18, PTS 0x00077C739 (87.220 s), mediatime 20.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 764 bytes
+PID 0x046A (1130), PES 18, PTS 0x00077C739 (87.220 s), mediatime 20.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2120 bytes
+PID 0x046D (1133), PES 19, PTS 0x00077C739 (87.220 s), mediatime 20.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 764 bytes
+PID 0x046B (1131), PES 19, PTS 0x00077C739 (87.220 s), mediatime 20.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 764 bytes
+PID 0x046C (1132), PES 19, PTS 0x00077C739 (87.220 s), mediatime 20.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 764 bytes
+PID 0x046A (1130), PES 19, PTS 0x00077C739 (87.220 s), mediatime 20.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2120 bytes
+PID 0x046B (1131), PES 20, PTS 0x0007D4579 (91.220 s), mediatime 24.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 731 bytes
+PID 0x046C (1132), PES 20, PTS 0x0007D4579 (91.220 s), mediatime 24.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 731 bytes
+PID 0x046A (1130), PES 20, PTS 0x0007D4579 (91.220 s), mediatime 24.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2014 bytes
+PID 0x046D (1133), PES 20, PTS 0x0007D4579 (91.220 s), mediatime 24.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2014 bytes
+PID 0x046B (1131), PES 21, PTS 0x0007D4579 (91.220 s), mediatime 24.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 731 bytes
+PID 0x046C (1132), PES 21, PTS 0x0007D4579 (91.220 s), mediatime 24.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 731 bytes
+PID 0x046A (1130), PES 21, PTS 0x0007D4579 (91.220 s), mediatime 24.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2014 bytes
+PID 0x046D (1133), PES 21, PTS 0x0007D4579 (91.220 s), mediatime 24.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2014 bytes
+PID 0x046B (1131), PES 22, PTS 0x0007D4579 (91.220 s), mediatime 24.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 731 bytes
+PID 0x046C (1132), PES 22, PTS 0x0007D4579 (91.220 s), mediatime 24.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 731 bytes
+PID 0x046A (1130), PES 22, PTS 0x0007D4579 (91.220 s), mediatime 24.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2014 bytes
+PID 0x046D (1133), PES 22, PTS 0x0007D4579 (91.220 s), mediatime 24.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2014 bytes
+PID 0x046B (1131), PES 23, PTS 0x0007D4579 (91.220 s), mediatime 24.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 731 bytes
+PID 0x046C (1132), PES 23, PTS 0x0007D4579 (91.220 s), mediatime 24.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 731 bytes
+PID 0x046A (1130), PES 23, PTS 0x0007D4579 (91.220 s), mediatime 24.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2014 bytes
+PID 0x046D (1133), PES 23, PTS 0x0007D4579 (91.220 s), mediatime 24.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2014 bytes
+PID 0x046D (1133), PES 24, PTS 0x00082C3B9 (95.220 s), mediatime 28.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 755 bytes
+PID 0x046B (1131), PES 24, PTS 0x00082C3B9 (95.220 s), mediatime 28.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 755 bytes
+PID 0x046C (1132), PES 24, PTS 0x00082C3B9 (95.220 s), mediatime 28.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 755 bytes
+PID 0x046A (1130), PES 24, PTS 0x00082C3B9 (95.220 s), mediatime 28.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2097 bytes
+PID 0x046D (1133), PES 25, PTS 0x00082C3B9 (95.220 s), mediatime 28.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 755 bytes
+PID 0x046B (1131), PES 25, PTS 0x00082C3B9 (95.220 s), mediatime 28.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 755 bytes
+PID 0x046C (1132), PES 25, PTS 0x00082C3B9 (95.220 s), mediatime 28.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 755 bytes
+PID 0x046A (1130), PES 25, PTS 0x00082C3B9 (95.220 s), mediatime 28.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2097 bytes
+PID 0x046D (1133), PES 26, PTS 0x00082C3B9 (95.220 s), mediatime 28.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 755 bytes
+PID 0x046B (1131), PES 26, PTS 0x00082C3B9 (95.220 s), mediatime 28.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 755 bytes
+PID 0x046C (1132), PES 26, PTS 0x00082C3B9 (95.220 s), mediatime 28.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 755 bytes
+PID 0x046A (1130), PES 26, PTS 0x00082C3B9 (95.220 s), mediatime 28.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2097 bytes
+PID 0x046D (1133), PES 27, PTS 0x00082C3B9 (95.220 s), mediatime 28.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 755 bytes
+PID 0x046B (1131), PES 27, PTS 0x00082C3B9 (95.220 s), mediatime 28.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 755 bytes
+PID 0x046C (1132), PES 27, PTS 0x00082C3B9 (95.220 s), mediatime 28.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 755 bytes
+PID 0x046A (1130), PES 27, PTS 0x00082C3B9 (95.220 s), mediatime 28.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2097 bytes
+PID 0x046B (1131), PES 28, PTS 0x0008841F9 (99.220 s), mediatime 32.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 761 bytes
+PID 0x046C (1132), PES 28, PTS 0x0008841F9 (99.220 s), mediatime 32.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 761 bytes
+PID 0x046A (1130), PES 28, PTS 0x0008841F9 (99.220 s), mediatime 32.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2169 bytes
+PID 0x046D (1133), PES 28, PTS 0x0008841F9 (99.220 s), mediatime 32.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2169 bytes
+PID 0x046B (1131), PES 29, PTS 0x0008841F9 (99.220 s), mediatime 32.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 761 bytes
+PID 0x046C (1132), PES 29, PTS 0x0008841F9 (99.220 s), mediatime 32.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 761 bytes
+PID 0x046A (1130), PES 29, PTS 0x0008841F9 (99.220 s), mediatime 32.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2169 bytes
+PID 0x046D (1133), PES 29, PTS 0x0008841F9 (99.220 s), mediatime 32.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2169 bytes
+PID 0x046B (1131), PES 30, PTS 0x0008841F9 (99.220 s), mediatime 32.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 761 bytes
+PID 0x046C (1132), PES 30, PTS 0x0008841F9 (99.220 s), mediatime 32.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 761 bytes
+PID 0x046A (1130), PES 30, PTS 0x0008841F9 (99.220 s), mediatime 32.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2169 bytes
+PID 0x046D (1133), PES 30, PTS 0x0008841F9 (99.220 s), mediatime 32.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2169 bytes
+PID 0x046B (1131), PES 31, PTS 0x0008841F9 (99.220 s), mediatime 32.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 761 bytes
+PID 0x046C (1132), PES 31, PTS 0x0008841F9 (99.220 s), mediatime 32.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 761 bytes
+PID 0x046A (1130), PES 31, PTS 0x0008841F9 (99.220 s), mediatime 32.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2169 bytes
+PID 0x046D (1133), PES 31, PTS 0x0008841F9 (99.220 s), mediatime 32.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2169 bytes
+PID 0x046D (1133), PES 32, PTS 0x0008DC039 (103.220 s), mediatime 36.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 710 bytes
+PID 0x046B (1131), PES 32, PTS 0x0008DC039 (103.220 s), mediatime 36.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 710 bytes
+PID 0x046C (1132), PES 32, PTS 0x0008DC039 (103.220 s), mediatime 36.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 710 bytes
+PID 0x046A (1130), PES 32, PTS 0x0008DC039 (103.220 s), mediatime 36.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 1896 bytes
+PID 0x046D (1133), PES 33, PTS 0x0008DC039 (103.220 s), mediatime 36.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 710 bytes
+PID 0x046B (1131), PES 33, PTS 0x0008DC039 (103.220 s), mediatime 36.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 710 bytes
+PID 0x046C (1132), PES 33, PTS 0x0008DC039 (103.220 s), mediatime 36.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 710 bytes
+PID 0x046A (1130), PES 33, PTS 0x0008DC039 (103.220 s), mediatime 36.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 1896 bytes
+PID 0x046D (1133), PES 34, PTS 0x0008DC039 (103.220 s), mediatime 36.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 710 bytes
+PID 0x046B (1131), PES 34, PTS 0x0008DC039 (103.220 s), mediatime 36.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 710 bytes
+PID 0x046C (1132), PES 34, PTS 0x0008DC039 (103.220 s), mediatime 36.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 710 bytes
+PID 0x046A (1130), PES 34, PTS 0x0008DC039 (103.220 s), mediatime 36.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 1896 bytes
+PID 0x046D (1133), PES 35, PTS 0x0008DC039 (103.220 s), mediatime 36.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 710 bytes
+PID 0x046B (1131), PES 35, PTS 0x0008DC039 (103.220 s), mediatime 36.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 710 bytes
+PID 0x046C (1132), PES 35, PTS 0x0008DC039 (103.220 s), mediatime 36.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 710 bytes
+PID 0x046A (1130), PES 35, PTS 0x0008DC039 (103.220 s), mediatime 36.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 1896 bytes
+PID 0x046B (1131), PES 36, PTS 0x000933E79 (107.220 s), mediatime 40.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 728 bytes
+PID 0x046C (1132), PES 36, PTS 0x000933E79 (107.220 s), mediatime 40.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 728 bytes
+PID 0x046A (1130), PES 36, PTS 0x000933E79 (107.220 s), mediatime 40.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 1924 bytes
+PID 0x046D (1133), PES 36, PTS 0x000933E79 (107.220 s), mediatime 40.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 1924 bytes
+PID 0x046B (1131), PES 37, PTS 0x000933E79 (107.220 s), mediatime 40.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 728 bytes
+PID 0x046C (1132), PES 37, PTS 0x000933E79 (107.220 s), mediatime 40.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 728 bytes
+PID 0x046A (1130), PES 37, PTS 0x000933E79 (107.220 s), mediatime 40.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 1924 bytes
+PID 0x046D (1133), PES 37, PTS 0x000933E79 (107.220 s), mediatime 40.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 1924 bytes
+PID 0x046B (1131), PES 38, PTS 0x000933E79 (107.220 s), mediatime 40.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 728 bytes
+PID 0x046C (1132), PES 38, PTS 0x000933E79 (107.220 s), mediatime 40.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 728 bytes
+PID 0x046A (1130), PES 38, PTS 0x000933E79 (107.220 s), mediatime 40.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 1924 bytes
+PID 0x046D (1133), PES 38, PTS 0x000933E79 (107.220 s), mediatime 40.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 1924 bytes
+PID 0x046B (1131), PES 39, PTS 0x000933E79 (107.220 s), mediatime 40.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 728 bytes
+PID 0x046C (1132), PES 39, PTS 0x000933E79 (107.220 s), mediatime 40.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 728 bytes
+PID 0x046A (1130), PES 39, PTS 0x000933E79 (107.220 s), mediatime 40.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 1924 bytes
+PID 0x046D (1133), PES 39, PTS 0x000933E79 (107.220 s), mediatime 40.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 1924 bytes
+PID 0x046D (1133), PES 40, PTS 0x00098BCB9 (111.220 s), mediatime 44.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 782 bytes
+PID 0x046B (1131), PES 40, PTS 0x00098BCB9 (111.220 s), mediatime 44.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 782 bytes
+PID 0x046C (1132), PES 40, PTS 0x00098BCB9 (111.220 s), mediatime 44.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 782 bytes
+PID 0x046A (1130), PES 40, PTS 0x00098BCB9 (111.220 s), mediatime 44.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2193 bytes
+PID 0x046D (1133), PES 41, PTS 0x00098BCB9 (111.220 s), mediatime 44.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 782 bytes
+PID 0x046B (1131), PES 41, PTS 0x00098BCB9 (111.220 s), mediatime 44.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 782 bytes
+PID 0x046C (1132), PES 41, PTS 0x00098BCB9 (111.220 s), mediatime 44.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 782 bytes
+PID 0x046A (1130), PES 41, PTS 0x00098BCB9 (111.220 s), mediatime 44.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2193 bytes
+PID 0x046D (1133), PES 42, PTS 0x00098BCB9 (111.220 s), mediatime 44.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 782 bytes
+PID 0x046B (1131), PES 42, PTS 0x00098BCB9 (111.220 s), mediatime 44.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 782 bytes
+PID 0x046C (1132), PES 42, PTS 0x00098BCB9 (111.220 s), mediatime 44.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 782 bytes
+PID 0x046A (1130), PES 42, PTS 0x00098BCB9 (111.220 s), mediatime 44.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2193 bytes
+PID 0x046D (1133), PES 43, PTS 0x00098BCB9 (111.220 s), mediatime 44.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 782 bytes
+PID 0x046B (1131), PES 43, PTS 0x00098BCB9 (111.220 s), mediatime 44.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 782 bytes
+PID 0x046C (1132), PES 43, PTS 0x00098BCB9 (111.220 s), mediatime 44.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 782 bytes
+PID 0x046A (1130), PES 43, PTS 0x00098BCB9 (111.220 s), mediatime 44.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 2193 bytes
+PID 0x046B (1131), PES 44, PTS 0x0009E3AF9 (115.220 s), mediatime 48.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 712 bytes
+PID 0x046C (1132), PES 44, PTS 0x0009E3AF9 (115.220 s), mediatime 48.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 712 bytes
+PID 0x046A (1130), PES 44, PTS 0x0009E3AF9 (115.220 s), mediatime 48.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 1902 bytes
+PID 0x046D (1133), PES 44, PTS 0x0009E3AF9 (115.220 s), mediatime 48.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 1902 bytes
+PID 0x046B (1131), PES 45, PTS 0x0009E3AF9 (115.220 s), mediatime 48.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 712 bytes
+PID 0x046C (1132), PES 45, PTS 0x0009E3AF9 (115.220 s), mediatime 48.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 712 bytes
+PID 0x046A (1130), PES 45, PTS 0x0009E3AF9 (115.220 s), mediatime 48.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 1902 bytes
+PID 0x046D (1133), PES 45, PTS 0x0009E3AF9 (115.220 s), mediatime 48.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 1902 bytes
+PID 0x046B (1131), PES 46, PTS 0x0009E3AF9 (115.220 s), mediatime 48.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 712 bytes
+PID 0x046C (1132), PES 46, PTS 0x0009E3AF9 (115.220 s), mediatime 48.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 712 bytes
+PID 0x046A (1130), PES 46, PTS 0x0009E3AF9 (115.220 s), mediatime 48.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 1902 bytes
+PID 0x046D (1133), PES 46, PTS 0x0009E3AF9 (115.220 s), mediatime 48.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 1902 bytes
+PID 0x046B (1131), PES 47, PTS 0x0009E3AF9 (115.220 s), mediatime 48.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 712 bytes
+PID 0x046C (1132), PES 47, PTS 0x0009E3AF9 (115.220 s), mediatime 48.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 712 bytes
+PID 0x046A (1130), PES 47, PTS 0x0009E3AF9 (115.220 s), mediatime 48.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 1902 bytes
+PID 0x046D (1133), PES 47, PTS 0x0009E3AF9 (115.220 s), mediatime 48.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 1902 bytes
+PID 0x046A (1130), PES 48, PTS 0x000A3B939 (119.220 s), mediatime 52.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 90 bytes
+PID 0x046D (1133), PES 48, PTS 0x000A3B939 (119.220 s), mediatime 52.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 124 bytes
+PID 0x046B (1131), PES 48, PTS 0x000A3B939 (119.220 s), mediatime 52.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 124 bytes
+PID 0x046C (1132), PES 48, PTS 0x000A3B939 (119.220 s), mediatime 52.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 90 bytes
+PID 0x046A (1130), PES 49, PTS 0x000A3B939 (119.220 s), mediatime 52.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 90 bytes
+PID 0x046D (1133), PES 49, PTS 0x000A3B939 (119.220 s), mediatime 52.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 124 bytes
+PID 0x046B (1131), PES 49, PTS 0x000A3B939 (119.220 s), mediatime 52.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 124 bytes
+PID 0x046C (1132), PES 49, PTS 0x000A3B939 (119.220 s), mediatime 52.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 90 bytes
+PID 0x046A (1130), PES 50, PTS 0x000A3B939 (119.220 s), mediatime 52.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 90 bytes
+PID 0x046D (1133), PES 50, PTS 0x000A3B939 (119.220 s), mediatime 52.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 124 bytes
+PID 0x046B (1131), PES 50, PTS 0x000A3B939 (119.220 s), mediatime 52.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 124 bytes
+PID 0x046C (1132), PES 50, PTS 0x000A3B939 (119.220 s), mediatime 52.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 90 bytes
+PID 0x046A (1130), PES 51, PTS 0x000A3B939 (119.220 s), mediatime 52.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 90 bytes
+PID 0x046D (1133), PES 51, PTS 0x000A3B939 (119.220 s), mediatime 52.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 124 bytes
+PID 0x046B (1131), PES 51, PTS 0x000A3B939 (119.220 s), mediatime 52.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 124 bytes
+PID 0x046C (1132), PES 51, PTS 0x000A3B939 (119.220 s), mediatime 52.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 90 bytes
+PID 0x046A (1130), PES 52, PTS 0x000A93779 (123.220 s), mediatime 56.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 90 bytes
+PID 0x046D (1133), PES 52, PTS 0x000A93779 (123.220 s), mediatime 56.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 90 bytes
+PID 0x046B (1131), PES 52, PTS 0x000A93779 (123.220 s), mediatime 56.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 124 bytes
+PID 0x046C (1132), PES 52, PTS 0x000A93779 (123.220 s), mediatime 56.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 90 bytes
+PID 0x046A (1130), PES 53, PTS 0x000A93779 (123.220 s), mediatime 56.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 90 bytes
+PID 0x046D (1133), PES 53, PTS 0x000A93779 (123.220 s), mediatime 56.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 90 bytes
+PID 0x046B (1131), PES 53, PTS 0x000A93779 (123.220 s), mediatime 56.000 s, PTS - mediatime 67.220 s, 1 segment: gzip TTML 124 bytes
+PID 0x046C (1132), PES 53, PTS 0x000A93779 (123.220 s), mediatime 56.000 s, PTS - mediatime 67.220 s, 1 segment: TTML 90 bytes
